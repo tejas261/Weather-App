@@ -75,6 +75,11 @@ h5{
     font-size: 17px;
 }
 
+@media screen and (min-width: 260px) {
+    .card{
+        max-width: 200px;
+    }
+}
 @media screen and (min-width: 360px) {
     .card{
         max-width: 300px;
